@@ -1,5 +1,3 @@
----
-
 # 🛒 **E-Commerce Sales & Inventory Management System**  
 
 ## 🔎 **Overview**  
